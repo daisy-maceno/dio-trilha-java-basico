@@ -16,7 +16,18 @@ public class Operadores {
         System.out.println("fim");
 
 
+<<<<<<< Updated upstream
          /*int numero1 = 1;
+=======
+        String nomeUm = "Daisy";
+        String nomeDois = new String("Daisy");
+
+        System.out.println(nomeUm.equals(nomeDois));
+
+
+
+        /*int numero1 = 1;
+>>>>>>> Stashed changes
         int numero2 = 2;   
 
         boolean simNao = numero1 == numero2;
